@@ -1,0 +1,56 @@
+# Configuration file
+# Generated on 24.10.12 19:19
+
+####################
+# block 
+####################
+
+block {
+   block.bookstand.id=200
+   block.crystal.id=212
+   block.linkmodifier.id=207
+   block.linkportal.id=209
+   block.receptacle.id=206
+   block.starfissure.id=213
+   block.unstable.id=210
+   block.writingdesk.id=211
+}
+
+####################
+# entity 
+####################
+
+entity {
+   entity.book.id=219
+   entity.falling.id=218
+}
+
+####################
+# general 
+####################
+
+general {
+   options.crafting.enableAgebook=true
+   options.crafting.enableDesk=true
+   options.crafting.enableLinkModifier=true
+   options.crafting.enableLinkbook=true
+   options.crafting.enableNotebook=true
+   options.crafting.enableReceptacle=true
+   options.crafting.enableStand=true
+   options.decay=true
+   options.platform.blockid=1
+   options.providerId=9
+   options.renderlabels=true
+}
+
+####################
+# item 
+####################
+
+item {
+   item.agebook.id=7200
+   item.linkbook.id=7201
+   item.notebook.id=7203
+   item.writingdesk.id=7202
+}
+
