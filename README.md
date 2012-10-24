@@ -11,8 +11,10 @@ Minecraft Confing Pack 1.3.2
 Все конфиги для модов Minecraft версии 1.3.2, настроены так, чтобы не было никаких конфликтов.
 
 Настоятельно рекомендую использовать программу MultiMC для установки модов: http://forkk.net/MultiMC4/
+
 О том, как скачать и как пользоваться данной программой, смотрите в нашем видео: http://www.youtube.com/watch?v=AigJfl79hkg
 
 
 С уважением, MJRamon
-CraftShow
+
+Смотрите мультиплеер летсплей на этой сборке на канале CraftShow: http://youtube.com/minecraftukraine
